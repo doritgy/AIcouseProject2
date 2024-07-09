@@ -1,0 +1,6 @@
+id:str = input("please type your ID number")
+fname:str = input("please type your first name")
+lname:str = input("please type your last name")
+height:float = float(input("please type your exact height"))
+yearOfBirth:int = int(input("please type the year of your birth"))
+print(f"#ID:{id} name: {fname} {lname} heigt:{height} year-of-birth:{yearOfBirth}")
