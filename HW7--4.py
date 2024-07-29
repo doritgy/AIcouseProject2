@@ -39,6 +39,8 @@ while True:
         for i in range(len(b)):
             if letter == a[i]:
                 b[i] = a[i]
+        else:
+            print("this letter is not included")
         try:
             indexx = b.index("_")
         except Exception as e:
