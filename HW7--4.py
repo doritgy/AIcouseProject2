@@ -36,11 +36,14 @@ while True:
     print(b)
     while True:
         letter = input("please try a letter")
+        end = False
         for i in range(len(b)):
             if letter == a[i]:
                 b[i] = a[i]
-        else:
+                end = True
+        if not end:
             print("this letter is not included")
+            end = False
         try:
             indexx = b.index("_")
         except Exception as e:
