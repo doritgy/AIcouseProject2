@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ad6160e-58cd-4c6f-9e02-bf9896250af6" name="Changes" comment="new HW directory" />
+    <list default="true" id="1ad6160e-58cd-4c6f-9e02-bf9896250af6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="cd9e6363-806a-4ad1-a193-03dc57067371" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +143,7 @@
     "Python.TN--8.executor": "Run",
     "Python.TN--9.executor": "Run",
     "Python.__init__.executor": "Run",
-    "Python.bank_excercise.executor": "Run",
+    "Python.bank_excercise.executor": "Debug",
     "Python.fprinting.executor": "Run",
     "Python.func_with_return.executor": "Debug",
     "Python.func_without_return.executor": "Run",
@@ -370,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724598214268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new HW directory">
+      <option name="closed" value="true" />
+      <created>1724693646475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724693646475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,17 +484,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/.venv/Bank application/bank_excercise.py</url>
-          <line>262</line>
+          <line>267</line>
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/.venv/Bank application/bank_excercise.py</url>
-          <line>145</line>
-          <option name="timeStamp" value="195" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/Bank application/bank_excercise.py</url>
-          <line>277</line>
+          <line>282</line>
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -500,6 +505,16 @@
           <url>file://$PROJECT_DIR$/.venv/HW13/HW13--1test.py</url>
           <line>112</line>
           <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Bank application/bank_excercise.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Bank application/bank_excercise.py</url>
+          <line>167</line>
+          <option name="timeStamp" value="202" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
