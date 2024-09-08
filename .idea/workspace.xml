@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad6160e-58cd-4c6f-9e02-bf9896250af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/memory_game/mem_chatGPT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory_game/mem_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory_game/mem_game_with_chat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank_application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank_application/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank_application/bank_exc_with_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank_application/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank_application/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank_application/tests_bank_exc_with_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank application/bank_excercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bank_application/bank_excercise.py" afterDir="false" />
     </list>
     <list id="cd9e6363-806a-4ad1-a193-03dc57067371" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +73,7 @@
   "keyToString": {
     "Python tests.Doctests in builtins.executor": "Run",
     "Python tests.Python tests in HW13--1test.py.executor": "Run",
+    "Python tests.pytest in bank_exc_with_tests.py.executor": "Run",
     "Python.HW--5.executor": "Run",
     "Python.HW10--1.executor": "Run",
     "Python.HW10--2.executor": "Run",
@@ -147,6 +152,7 @@
     "Python.TN--8.executor": "Run",
     "Python.TN--9.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.bank_exc_with_tests.executor": "Run",
     "Python.bank_excercise.executor": "Debug",
     "Python.fprinting.executor": "Run",
     "Python.func_with_return.executor": "Debug",
@@ -167,7 +173,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dorit/PycharmProjects/pythonProject2",
+    "last_opened_file_path": "C:/Users/dorit/PycharmProjects/pythonProject2/Bank_application",
     "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
@@ -180,6 +186,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dorit\PycharmProjects\pythonProject2\Bank_application" />
       <recent name="C:\Users\dorit\PycharmProjects\pythonProject2" />
       <recent name="C:\Users\dorit\PycharmProjects\pythonProject2\.venv\memoryGame" />
       <recent name="C:\Users\dorit\PycharmProjects\pythonProject2\.venv\memoryGame\pillow-10.4.0.dist-info" />
@@ -188,7 +195,7 @@
       <recent name="C:\Users\dorit\PycharmProjects\pythonProject2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.myGame">
     <configuration name="HW11--1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
@@ -419,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724774778664</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new HW directory">
+      <option name="closed" value="true" />
+      <created>1725271338431</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725271338431</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,6 +619,11 @@
           <url>file://$PROJECT_DIR$/memory_game/mem_game.py</url>
           <line>259</line>
           <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Bank_application/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="236" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
